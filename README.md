@@ -14,3 +14,17 @@ LuxAutoCare is a responsive, user-friendly web application designed to streamlin
 - ✅ Responsive and mobile-friendly layout
 # LuxAutoCare
 A Luxury Auto Care Services
+## 🎨 Design
+
+UI/UX Prototype built using **Figma**:  
+👉 [Figma Design Link](https://www.figma.com/proto/jlJqO7VCzWvO1xoyvCBssO/LuxAutoCare?node-id=0-1)
+
+---
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Figma (UI/UX Design)
+- Git & GitHub for version control and hosting
